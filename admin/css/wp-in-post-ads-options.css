@@ -1,0 +1,20 @@
+/**
+ * Plugin Name: WP In Post Ads by MyThemeShop
+ * Author URI: https://mythemeshop.com/
+ */
+.form-field.hide, .tab-content, .mts_ad_page_wp-in-post-ads h3 { display: none;}
+tr.active { display: table-row }
+div.form-field.active, .tab-content.active { display: block }
+.form-field.wpipa-select-child { display: none }
+.form-field.wpipa-select-child.active { display: none }
+tr.form-field.wpipa-select-child.wpipa-active { display: table-row }
+div.form-field.wpipa-select-child.wpipa-active { display: block }
+.wpipa-multi-select { min-width: 150px }
+#wpipa_single_metabox .form-field { margin-bottom: 15px }
+#wpipa_single_metabox .wpipa-color-label { vertical-align: top; }
+#wpipa_single_metabox .form-field input[type=number].small-text, .mts_ad_page_wp-in-post-ads .form-field input[type=number].small-text { width: 65px }
+#wpipa_single_metabox .inside:before, #wpipa_single_metabox .inside:after { content: " "; display: table; }
+#wpipa_single_metabox .inside:after { clear: both }
+#wpipa_single_metabox .inside { *zoom: 1 }
+#wpipa_single_metabox .wpipa-form-column { width: 30%; margin-right: 5%; float: left; }
+#wpipa_single_metabox .wpipa-form-column.last { margin-right: 0; }

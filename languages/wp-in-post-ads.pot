@@ -1,0 +1,437 @@
+# Copyright (C) 2015 WP Backup
+# This file is distributed under the same license as the WP Backup package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP In Post Ads\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/my-wp-backup\n"
+"POT-Creation-Date: 2015-09-15 12:23+0100\n"
+"PO-Revision-Date: 2015-09-15 03:41+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: admin/class-wp-in-post-ads-admin.php:103
+msgctxt "post type general name"
+msgid "In Post Ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:104
+msgctxt "post type singular name"
+msgid "In Post Ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:105
+msgctxt "admin menu"
+msgid "In Post Ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:106
+msgctxt "add new on admin bar"
+msgid "In Post Ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:107
+msgctxt "notification bar"
+msgid "Add New"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:108
+msgid "Add New In Post Ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:109
+msgid "New In Post Ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:110
+msgid "Edit In Post Ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:111
+msgid "View In Post Ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:112
+msgid "All In Post Ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:113
+msgid "Search In Post Ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:114
+msgid "Parent In Post Ads:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:115
+msgid "No in post ads found."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:116
+msgid "No in post ads found in Trash."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:149
+msgid "WP In Post Ads Settings"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:150
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:166
+msgid "General"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:167
+#: admin/class-wp-in-post-ads-admin.php:252
+msgid "Ad Groups"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:168
+#: admin/class-wp-in-post-ads-admin.php:320
+msgid "Single Ad Defaults"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:169
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:189
+msgid "Posts"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:190
+msgid "Pages"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:211
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:219
+msgid "Supported Post Types:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:235
+msgid "Hide Ads for logged in users?"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:241
+msgid "Check if you want to hide the ads for logged in users."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:260
+msgid "How many ads to show on same placement?"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:267
+msgid "Show all ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:268
+msgid "Show only one ad"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:279
+msgid "Order Ads By:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:286
+msgid "Date Published"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:287
+msgid "Priority"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:288
+msgid "Random"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:299
+msgid "Order:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:306
+msgid "DESC"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:307
+msgid "ASC"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:328
+msgid "Ad Placement:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:343
+msgid "Alignment:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:350
+#: admin/class-wp-in-post-ads-admin.php:916
+msgid "Left"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:351
+#: admin/class-wp-in-post-ads-admin.php:917
+msgid "Center"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:352
+#: admin/class-wp-in-post-ads-admin.php:918
+msgid "Right"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:364
+msgid "Width (px):"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:380
+msgid "Ad Padding (px):"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:396
+msgid "Ad Background Color:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:411
+msgid "Ad Text Color:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:426
+msgid "Show Ad after N days?"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:432
+msgid ""
+"Check if you want to delay showing the ads for specified number of days."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:442
+#: admin/class-wp-in-post-ads-admin.php:474
+msgid "Number of Days:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:458
+msgid "Show Ad for N days?"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:464
+msgid "Check if you want to show the ads for specified number of days."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:491
+msgid "Google Analytics Integration"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:499
+msgid "Enable Google Analytics integration?"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:505
+msgid "Check if you want to enable Google Analytics integration."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:515
+msgid "Event Category:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:521
+#: admin/class-wp-in-post-ads-admin.php:761
+msgid "WP In Post Ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:530
+msgid "Event Label:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:536
+msgid "Default"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:552
+msgid "Set general options."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:565
+msgid ""
+"How to dislay ads if two or more of them are supposed to be shown on same "
+"placement."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:579
+msgid ""
+"Set default settings for non published ads. All settings can be overriden on "
+"per ad basis."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:592
+msgid ""
+"Set Google Analytics integration, note that your pages need to already be "
+"set up for Google Analytics tracking for this to work properly."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:611
+#: admin/class-wp-in-post-ads-admin.php:884
+msgid "Before Content"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:617
+#: admin/class-wp-in-post-ads-admin.php:890
+msgid "After"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:619
+#: admin/class-wp-in-post-ads-admin.php:892
+msgid "Paragraphs."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:625
+#: admin/class-wp-in-post-ads-admin.php:898
+msgid "After Content"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:748
+msgid "If you want to insert this ad manually, use the following shortcode:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:785
+msgid "Disable in post ads"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:832
+msgid "Ad Settings"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:880
+msgid "Placement:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:903
+msgid "Ad Priority:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:909
+msgid "Appearance:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:912
+msgid "Ad Alignment:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:929
+msgid "Max width (px):"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:935
+msgid "Padding (px):"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:941
+msgid "Background color:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:947
+msgid "Text color:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:953
+msgid "Behavior:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:957
+msgid "Show ad after:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:959
+msgid "days from the day the post was published."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:965
+msgid "Show ad for:"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:967
+msgid "days."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1067
+#: admin/class-wp-in-post-ads-admin.php:1070
+msgid "Ad updated."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1068
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1069
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1071
+#, php-format
+msgid "Ad restored to revision from %s"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1072
+msgid "Ad published."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1073
+msgid "Ad saved."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1074
+msgid "Ad submitted."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1075
+#, php-format
+msgid "Ad scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1075
+msgid "M j, Y @ H:i"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1076
+msgid "Ad draft updated."
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1093
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-wp-in-post-ads-admin.php:1094
+msgid "Views"
+msgstr ""
+
+#: includes/class-wp-in-post-ads-widget.php:11
+msgid "Display ads"
+msgstr ""
+
+#: includes/class-wp-in-post-ads-widget.php:12
+msgid "WP In Post Ads Widget"
+msgstr ""
+
+#: includes/class-wp-in-post-ads-widget.php:100
+msgid "Title:"
+msgstr ""
+
+#: includes/class-wp-in-post-ads-widget.php:105
+msgid "Select Ads:"
+msgstr ""
